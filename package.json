@@ -1,6 +1,5 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Andrew Monis",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "related", "words" ],
 	"license": "MIT",
@@ -16,5 +15,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": "Andrew Monis"
 }
