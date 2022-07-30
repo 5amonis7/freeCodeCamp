@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"authors": "Andrew Monis",
+	"author": "Andrew Monis",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "related", "words" ],
 	"license": "MIT",
